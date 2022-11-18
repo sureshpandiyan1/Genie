@@ -24,7 +24,6 @@
 
 # Support
   <p>show love of genie to others or share, <br> you can find the badge in support-badge folder (repo)</p>
-<a href="https://www.mediafire.com/file/cdg2q17xhoahc7f/genie-docs.pdf/file">
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202769367-780edaa4-604e-4bdd-873c-08d2925c6897.png">
 </div>
