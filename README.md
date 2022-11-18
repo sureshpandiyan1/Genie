@@ -10,6 +10,10 @@
 </div>
 </a>
 
+# Demo
+
+[genie_edit_0.webm](https://user-images.githubusercontent.com/112636345/202772073-33b08c9e-2443-40a6-9542-256647c55033.webm)
+
 # Docs
   <p>It contains detailed documentation about genie and other instructions too.</p>
 <a href="https://www.mediafire.com/file/cdg2q17xhoahc7f/genie-docs.pdf/file">
