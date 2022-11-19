@@ -16,6 +16,7 @@
 
 # Docs
   <p>It contains detailed documentation about genie and other instructions too.</p>
+  
 <a href="https://www.mediafire.com/file/cdg2q17xhoahc7f/genie-docs.pdf/file">
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202768999-bd396f13-2ffc-4d1a-b619-213e31d0b355.png">
