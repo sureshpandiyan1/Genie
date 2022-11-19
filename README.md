@@ -28,7 +28,6 @@
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202769367-780edaa4-604e-4bdd-873c-08d2925c6897.png">
 </div>
-</a>
 
 
 # Copyright & License
