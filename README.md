@@ -3,6 +3,7 @@
 <p>Genie is a rule-based bot built in python. It's a helpful desktop application for everyone <br> who wants to do simple things quickly like download a file, minify, etc.,</[>
 
 # Genie Avaliable for windows users
+
 <p>It's just pre-release v1.0.0.meanwhile,  you can enjoy a few commands now. <br> Many things will add to Genie included in the next production</p>
 <a href="https://www.mediafire.com/file/18silaadfodsdyg/Genie-v1.0.0.rar/file">
 <div>
@@ -14,7 +15,9 @@
 
 [genie_edit_0.webm](https://user-images.githubusercontent.com/112636345/202772073-33b08c9e-2443-40a6-9542-256647c55033.webm)
 
+
 # Docs
+
   <p>It contains detailed documentation about genie and other instructions too.</p>
   
 <a href="https://www.mediafire.com/file/cdg2q17xhoahc7f/genie-docs.pdf/file">
@@ -24,6 +27,7 @@
 </a>
 
 # Support
+
   <p>show love of genie to others or share, <br> you can find the badge in support-badge folder (repo)</p>
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202769367-780edaa4-604e-4bdd-873c-08d2925c6897.png">
