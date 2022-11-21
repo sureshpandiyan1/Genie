@@ -166,4 +166,44 @@ class genies():
                 print(chkz['key'], file=m)
         except:
             print("you are not typed cmnds properly")
+            
+    def g_card(types):
+        q = types
+        def choosethecard(select):
+            if select == 1: return str(random.randint(4000500030005000, 4600600050006000))
+            if select == 2: return str(random.randint(5004003002001000, 5506006006005000))
+        i = 0
+        while i < 2:
+            rand_num =choosethecard(q); s = ''.join(str(rand_num))
+            cds = s[0:16:2]
+            sortth = [int(cds[0]) + int(cds[0]), int(cds[1]) + int(cds[1]), int(cds[2]) + int(cds[2]),
+                int(cds[3]) + int(cds[3]), int(cds[4]) + int(cds[4]), int(cds[5]) + int(cds[5]),
+                int(cds[6]) + int(cds[6]), int(cds[7]) + int(cds[7])]
+
+            now = [m for m in sortth]
+            def sorter(j):
+                if j > 9:
+                    x = str(j)[0:1]
+                    y = str(j)[1:2]
+                    z = int(x) + int(y)
+                    return z
+                else:
+                    return j
+            cps = ''.join([str(sorter(cards)) for cards in now])
+            alls = int(cps[0]) + int(rand_num[1]) + int(cps[1]) + int(rand_num[3]) + int(cps[2]) + int(rand_num[5]) + int(
+                cps[3]) + int(rand_num[7]) + int(cps[4]) + int(rand_num[9]) + int(cps[5]) + int(rand_num[11]) + int(
+                cps[6]) + int(rand_num[13]) + int(cps[7]) + int(rand_num[15])
+            def makesurepass():
+                try:
+                    if int(str(alls)[1:2]) == 0: return "pass"
+                    else: return "failed"
+                except:
+                    if int(str(alls)[2:3]) == 0: return "pass"
+                    else: return "fail"
+            if makesurepass() == "pass":
+                ll  = {1: "dummyvisa.txt", 2: "dummymaster.txt"}
+                z = os.environ["USERPROFILE"]+ r"\Desktop\{0}".format(ll[types])
+                with open(z, "w+", encoding="utf8") as m:
+                    print(s, file=m)
+                break
 
