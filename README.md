@@ -20,10 +20,12 @@ If you like it, give a star ⭐
 # Docs
 
   <p>It contains detailed documentation about genie and other instructions too.</p>
-  
+
+
+
 <a href="https://github.com/sureshpandiyan1/Genie/blob/master/docs/updated-genie-docs.pdf">
 <div>
-<img src="https://user-images.githubusercontent.com/112636345/202768999-bd396f13-2ffc-4d1a-b619-213e31d0b355.png">
+<img src="https://user-images.githubusercontent.com/112636345/203038988-6ff11da6-f118-42b5-9dbc-cb64b00ff1be.png">
 </div>
 </a>
 
