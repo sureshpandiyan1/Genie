@@ -6,7 +6,7 @@ If you like it, give a star ⭐
 # Genie Avaliable for windows users
 
 <p>It's just pre-release v1.0.0.meanwhile,  you can enjoy a few commands now. <br> Many things will add to Genie included in the next production</p>
-<a href="https://www.mediafire.com/file/18silaadfodsdyg/Genie-v1.0.0.rar/file">
+<a href="https://www.mediafire.com/file/8f5sin6fg08eohs/Genie-v1.0.0.rar/file">
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202769156-121565d4-26cb-405e-977d-0bd6209b486f.png">
 </div>
