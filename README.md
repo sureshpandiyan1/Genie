@@ -24,7 +24,7 @@ If you like it, give a star ⭐
 
 
 
-<a href="https://github.com/sureshpandiyan1/Genie/blob/master/docs/updated-genie-docs.pdf">
+<a href="https://github.com/sureshpandiyan1/Genie/blob/master/docs/updated-Genie-docs.pdf">
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/203038988-6ff11da6-f118-42b5-9dbc-cb64b00ff1be.png">
 </div>
