@@ -15,7 +15,6 @@ import spacy
 nlp = spacy.load("./app/genie/model-best")
 
 
-
 class genie_guis():
 
     def __init__(self):
@@ -27,6 +26,9 @@ class genie_guis():
         self.genie.wm_title(title)
         self.genie.wm_geometry(w)
         print("genie loading a window..")
+
+    def genie_icon(self,m):
+        m.iconbitmap("./app/imgs/genie.ico")
 
     @staticmethod
     def genie_half_screen(z,ww,hh):
@@ -54,9 +56,6 @@ class genie_guis():
         z.after(3000,st.destroy)
         st.mainloop()
         print("genie loaded welcome screen...")
-
-    def genie_icon(self,m):
-        m.iconbitmap("./app/imgs/genie.ico")
 
 
     def genie_npopups(texst):
@@ -95,7 +94,8 @@ class genie_guis():
                 cc = [
                 "download","npm","pkg","minify","css","me","email",
                 "yarn","give","typeface","goldenratio","get","hashtag","grid",
-                "make","create","random","text","system","12","validate"
+                "make","create","random","text","system","12","validate","generate","dummy",
+                "visa","master","card"
                 ]
                 return token.text in cc
 
@@ -125,7 +125,9 @@ class genie_guis():
                 "4": g_cmds("minify css") == "minify css",
                 "5": g_cmds("create random text") == "create random text",
                 "6": g_cmds("make 12 grid") == "make 12 grid",
-                "7": g_cmds("validate email") == "validate email"
+                "8": g_cmds("generate dummy visa card") == "generate dummy visa card",
+                "7": g_cmds("validate email") == "validate email",
+                "9": g_cmds("generate dummy master card") == "generate dummy master card"
                 }
 
                 ll = "".join([x  for x,y in g_mtch.items() if y == True])
@@ -150,8 +152,7 @@ class genie_guis():
                             genie_guis.genie_npopups(texst=self.z) 
                         case "4":
                             genies.g_cssoneliner(mm)
-                            self.z = genies.g_jthat("minify css")
-                            genie_guis.genie_npopups(texst=self.z)
+                            genies.g_jthat("minify css")
                         case "5":
                             genies.g_crtrndm()
                             self.z = genies.g_jthat("create random text")
@@ -164,10 +165,20 @@ class genie_guis():
                             genies.g_chkmail(mm)
                             self.z = genies.g_jthat("validate email")
                             genie_guis.genie_npopups(texst=self.z)
+                        case "8":
+                            genies.g_card(1)
+                            self.z = genies.g_jthat("generate dummy visa card")
+                            genie_guis.genie_npopups(texst=self.z)
+                        case "9":
+                            genies.g_card(2)
+                            self.z = genies.g_jthat("generate dummy master card")
+                            genie_guis.genie_npopups(texst=self.z)
                         case "_":
-                            genie_guis.genie_npopups([zz for zz in mm])
+                            self.z = genies.g_jthat("gerror")
+                            genie_guis.genie_npopups(texst=self.z)
                 except:
-                    genie_guis.genie_npopups("gerror")
+                    self.z = genies.g_jthat("gerror")
+                    genie_guis.genie_npopups(texst=self.z)
             g_wish.delete(0,END)
             genie_mtch()
             print("genie cmds succesfully runs..")
