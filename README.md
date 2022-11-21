@@ -21,7 +21,7 @@ If you like it, give a star ⭐
 
   <p>It contains detailed documentation about genie and other instructions too.</p>
   
-<a href="https://www.mediafire.com/file/qohroylkivg45oz/genie-docs.pdf/file">
+<a href="https://github.com/sureshpandiyan1/Genie/blob/master/docs/updated-genie-docs.pdf">
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202768999-bd396f13-2ffc-4d1a-b619-213e31d0b355.png">
 </div>
