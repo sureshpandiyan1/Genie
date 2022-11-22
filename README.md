@@ -81,4 +81,4 @@ If you like it, give a star ⭐
 # Copyright & License
  
 <span>Copyright @ 2022 Genie | Created By Suresh P <br></span> 
-<span>Made with Love For Developers | MIT License</span>
+<span>Made with ❤️ For Developers | MIT License</span>
