@@ -30,6 +30,46 @@ If you like it, give a star ⭐
 </div>
 </a>
 
+
+
+
+# ScreenShots
+
+![Screenshot 2022-11-22 095018](https://user-images.githubusercontent.com/112636345/203221518-1bca7872-cdaa-443b-bd26-21ae688dded6.jpg)
+
+![image](https://user-images.githubusercontent.com/112636345/203221601-ccf50ea3-113b-4998-b6b6-627d82e108d8.png)
+
+
+
+# Technical
+    
+    Title: Genie 1.0.0 For Windows
+    Filename: Genie-v1.0.0.rar
+    Version: 1.0.0
+    Setup Size: 42.23 MB
+    Requirements: Windows 7 / 8 / 10 / 11
+    Compatibility: 32 Bit (x86) / 64 Bit (x64)
+    Language: English
+    License: MIT
+    Price: Free
+    Author: Suresh P
+    Latest update: Monday, November 21 2022
+    
+
+# Minimum System Requirements <br> For Genie
+
+    Platform: Windows 7 / 8 / 10 / 11
+    Ram: 1GB
+    Hard Disk: 2GB
+    Processor: Intel Core 2 Duo or higher processor
+    need to install: Microsoft visual studio c++ 2015
+[download Microsoft visual studio c++ 2015 from windows website](https://www.microsoft.com/en-in/download/confirmation.aspx?id=48145)
+
+
+# versions
+
+    v1.0.0
+
 # Support
 
   <p>show love of genie to others or share, <br> you can find the badge in support-badge folder (repo)</p>
