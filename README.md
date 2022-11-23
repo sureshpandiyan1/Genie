@@ -1,6 +1,12 @@
 ![Group 29](https://user-images.githubusercontent.com/112636345/202770767-3d06b5d6-fb0f-4fca-812e-25bc3ac28f96.png)
 
 <p>Genie is a rule-based bot built in python. It's a helpful desktop application for everyone <br> who wants to do simple things quickly like download a file, minify, etc.,</p>
+
+[![GitHub stars](https://img.shields.io/github/stars/sureshpandiyan1/Genie)](https://github.com/sureshpandiyan1/Genie/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/sureshpandiyan1/Genie)](https://github.com/sureshpandiyan1/Genie/network)
+[![GitHub issues](https://img.shields.io/github/issues/sureshpandiyan1/Genie)](https://github.com/sureshpandiyan1/Genie/issues)
+[![GitHub license](https://img.shields.io/github/license/sureshpandiyan1/Genie)](https://github.com/sureshpandiyan1/Genie)
+
 If you like it, give a star ⭐
 
 # Genie Avaliable for windows users
