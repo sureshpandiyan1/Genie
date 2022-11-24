@@ -11,7 +11,7 @@ If you like it, give a star ⭐
 
 # Genie Avaliable for windows users
 
-<p>It's just pre-release v1.0.0.meanwhile,  you can enjoy a few commands now. <br> Many things will add to Genie included in the next production <br> supported Platforms: Windows 7 / 8 / 10 / 11</p>
+<p>It's just pre-release v1.0.0.meanwhile,  you can enjoy a few commands now. <br> Many things will add to Genie included in the next production <br> supported Platforms: Windows 7 / 8 / 10 / 11 (64 - Bit)</p>
 <a href="https://www.mediafire.com/file/8f5sin6fg08eohs/Genie-v1.0.0.rar/file">
 <div>
 <img src="https://user-images.githubusercontent.com/112636345/202769156-121565d4-26cb-405e-977d-0bd6209b486f.png">
@@ -65,6 +65,7 @@ If you like it, give a star ⭐
 # Minimum System Requirements <br> For Genie
 
     Platform: Windows 7 / 8 / 10 / 11
+    Compatibility version: 64 Bit (x64)
     Ram: 1GB
     Hard Disk: 2GB
     Processor: Intel Core 2 Duo or higher processor
