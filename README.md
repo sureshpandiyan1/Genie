@@ -64,13 +64,18 @@ If you like it, give a star ⭐
 
 # Minimum System Requirements <br> For Genie
 
-    Platform: Windows 7 / 8 / 10 / 11
+    Minimum System Requirements:
+
+    Supported Platform: Windows 7 / 8 / 10 / 11
     Compatibility version: 64 Bit (x64)
     Ram: 1GB
     Hard Disk: 2GB
     Processor: Intel Core 2 Duo or higher processor
-    need to install: Microsoft visual studio c++ 2015
-[download Microsoft visual studio c++ 2015 from windows website](https://www.microsoft.com/en-in/download/confirmation.aspx?id=48145)
+    need to install: Microsoft Visual C++ 2015 Redistributable (x64)
+
+    cjust copy and paste this link on your browser to download 
+    https://www.microsoft.com/en-in/download/confirmation.aspx?id=48145
+
 
 
 # versions
