@@ -59,7 +59,7 @@ If you like it, give a star ⭐
     License: MIT
     Price: Free
     Author: Suresh P
-    Latest update: Monday, November 21 2022
+    Latest update: Thursday, November 24, 2022
     
 
 # Minimum System Requirements <br> For Genie
