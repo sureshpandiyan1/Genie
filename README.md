@@ -36,6 +36,12 @@ If you like it, give a star ⭐
 </div>
 </a>
 
+<span>if you face any issue with documentation, just click the below  link to download a docs directly from source</span> <br>
+<a href="https://www.mediafire.com/file/ds4qnpz7u0t3ofw/updated-Genie-docs.pdf/file" target="_blank">
+updated-Genie-docs.pdf
+</a>
+
+
 
 
 
